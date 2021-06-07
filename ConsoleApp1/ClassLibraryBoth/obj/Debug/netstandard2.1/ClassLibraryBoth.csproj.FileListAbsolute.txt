@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\bin\Debug\netstandard2.1\ClassLibraryBoth.deps.json
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\bin\Debug\netstandard2.1\ClassLibraryBoth.dll
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\bin\Debug\netstandard2.1\ClassLibraryBoth.pdb
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\obj\Debug\netstandard2.1\ClassLibraryBoth.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\obj\Debug\netstandard2.1\ClassLibraryBoth.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\obj\Debug\netstandard2.1\ClassLibraryBoth.AssemblyInfo.cs
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\obj\Debug\netstandard2.1\ClassLibraryBoth.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\obj\Debug\netstandard2.1\ClassLibraryBoth.dll
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\ClassLibraryBoth\obj\Debug\netstandard2.1\ClassLibraryBoth.pdb

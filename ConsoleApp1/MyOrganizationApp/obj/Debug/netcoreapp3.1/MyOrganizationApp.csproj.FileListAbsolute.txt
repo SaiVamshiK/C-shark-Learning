@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\bin\Debug\netcoreapp3.1\MyOrganizationApp.deps.json
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\bin\Debug\netcoreapp3.1\MyOrganizationApp.dll
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\bin\Debug\netcoreapp3.1\MyOrganizationApp.pdb
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\obj\Debug\netcoreapp3.1\MyOrganizationApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\obj\Debug\netcoreapp3.1\MyOrganizationApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\obj\Debug\netcoreapp3.1\MyOrganizationApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\obj\Debug\netcoreapp3.1\MyOrganizationApp.dll
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\MyOrganizationApp\obj\Debug\netcoreapp3.1\MyOrganizationApp.pdb

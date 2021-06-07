@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\bin\Debug\WindowsFormsAppUI.exe.config
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\bin\Debug\WindowsFormsAppUI.exe
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\bin\Debug\WindowsFormsAppUI.pdb
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.Form1.resources
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.Properties.Resources.resources
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.exe
+C:\Users\User\Desktop\Deloitte\C# Programs\ConsoleApp1\WindowsFormsAppUI\obj\Debug\WindowsFormsAppUI.pdb
